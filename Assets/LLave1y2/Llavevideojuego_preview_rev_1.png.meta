@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 44847a19b1d6a034ab84fd7ed2070818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4472775597693243897
+    second: Llavevideojuego_preview_rev_1_0
+  - first:
+      213: -1188339708173273165
+    second: Llavevideojuego_preview_rev_1_1
+  - first:
+      213: 7927538912022870248
+    second: Llavevideojuego_preview_rev_1_2
+  - first:
+      213: 6236567583057314768
+    second: Llavevideojuego_preview_rev_1_3
+  - first:
+      213: 3737152012083635487
+    second: Llavevideojuego_preview_rev_1_4
+  - first:
+      213: 1160627869675452009
+    second: Llavevideojuego_preview_rev_1_5
+  - first:
+      213: 3222281024898146285
+    second: Llavevideojuego_preview_rev_1_6
+  - first:
+      213: 2726542409905361350
+    second: Llavevideojuego_preview_rev_1_7
+  - first:
+      213: 1097029379367677569
+    second: Llavevideojuego_preview_rev_1_8
+  - first:
+      213: 3627078931408171989
+    second: Llavevideojuego_preview_rev_1_9
+  - first:
+      213: -5172637963375813960
+    second: Llavevideojuego_preview_rev_1_10
+  - first:
+      213: 6757858299649022261
+    second: Llavevideojuego_preview_rev_1_11
+  - first:
+      213: -4100589488738649331
+    second: Llavevideojuego_preview_rev_1_12
+  - first:
+      213: -2631591090999197670
+    second: Llavevideojuego_preview_rev_1_13
+  - first:
+      213: 2020774182758715540
+    second: Llavevideojuego_preview_rev_1_14
+  - first:
+      213: 5353707699826648017
+    second: Llavevideojuego_preview_rev_1_15
+  - first:
+      213: -6081100032855504600
+    second: Llavevideojuego_preview_rev_1_16
+  - first:
+      213: -983235863980982381
+    second: Llavevideojuego_preview_rev_1_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e657baa428de1c0800000000000000
+      internalID: -4472775597693243897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 123
+        width: 38
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b737ddd45b228fe0800000000000000
+      internalID: -1188339708173273165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b53a73a6440e60800000000000000
+      internalID: 7927538912022870248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 31
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d309dd8c2dbc8650800000000000000
+      internalID: 6236567583057314768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 123
+        width: 35
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a1e764f70dd330800000000000000
+      internalID: 3737152012083635487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 112
+        width: 39
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667c60f5e06b1010800000000000000
+      internalID: 1160627869675452009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 123
+        width: 30
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def198f0587d7bc20800000000000000
+      internalID: 3222281024898146285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 123
+        width: 32
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1527f30ef96d520800000000000000
+      internalID: 2726542409905361350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 123
+        width: 38
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ea061886e693f00800000000000000
+      internalID: 1097029379367677569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 38
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d333ee2219f55230800000000000000
+      internalID: 3627078931408171989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 23
+        width: 38
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bad8499d291738b0800000000000000
+      internalID: -5172637963375813960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 23
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395101a15cb8cd50800000000000000
+      internalID: 6757858299649022261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 31
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b380af597c717c0800000000000000
+      internalID: -4100589488738649331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 24
+        width: 35
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1009e278d5ba7bd0800000000000000
+      internalID: -2631591090999197670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 24
+        width: 39
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901d96a96b3b0c10800000000000000
+      internalID: 2020774182758715540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 30
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e07fa9c03c4a40800000000000000
+      internalID: 5353707699826648017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_16
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 23
+        width: 32
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829080a3db79b9ba0800000000000000
+      internalID: -6081100032855504600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llavevideojuego_preview_rev_1_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 23
+        width: 38
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f3dfce038da52f0800000000000000
+      internalID: -983235863980982381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
